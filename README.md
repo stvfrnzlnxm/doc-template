@@ -8,13 +8,13 @@ This is the description of the project. It is clear, short, and to the point. It
 - [TypeScript](typescriptlang.org/)
 - [styled-components](https://styled-components.com/)
 
-## Table of Contents 🔍
+## Table of Contents
 
-1. [Installation](#1.-installation-🛠)
-2. [Usage](#2.-usage-💻)
-3. [Cheat Sheet](#3.-cheat-sheet-🙇‍♂️)
+1. [Installation](#1.-installation)
+2. [Usage](#2.-usage)
+3. [Cheat Sheet](#3.-cheat-sheet)
 
-## 1. Installation 🛠
+## 1. Installation
 
 This section will tell the user how to install the project locally.
 
@@ -22,7 +22,7 @@ Execute `yarn install` to install all necessary dependencies. Get the latest ver
 
 For working mock up data copy `api/prismic/config/configuration-dummy.ts`, rename it to `api/prismic/config/configuration.js` and edit the variables.
 
-## 2. Usage 💻
+## 2. Usage
 
 The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
 
@@ -62,7 +62,7 @@ It is recommended to use `src/helpers/preventScriptInjection.ts` if the editor h
 
 Edit languages inside `server/server.ts`.
 
-## 3. Cheat Sheet 🙇‍♂️
+## 3. Cheat Sheet
 
 Handling prismic rich texts:
 
