@@ -1,6 +1,6 @@
 # Project Name
 
-This is the description of the project. It is clear, short, and to the point. It describes the importance of the project, and what it does. Extra points for listing all technologies and tools used in this project, e.g.:
+**This is the description of the project. It is clear, short, and to the point. It describes the importance of the project, and what it does. Extra points for listing all technologies and tools used in this project, e.g.:**
 
 - [Next.js](nextjs.org/)
 - [Prismic](prismic.io/)
@@ -16,7 +16,7 @@ This is the description of the project. It is clear, short, and to the point. It
 
 ## 1. Installation
 
-This section will tell the user how to install the project locally.
+**This section will tell the user how to install the project locally.**
 
 Execute `yarn install` to install all necessary dependencies. Get the latest version of Yarn here: [yarnpkg.com](https://yarnpkg.com/).
 
@@ -24,7 +24,7 @@ For working mock up data copy `api/prismic/config/configuration-dummy.ts`, renam
 
 ## 2. Usage
 
-The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+**In this section you instruct other people on how to use your project after they’ve installed it.**
 
 ### 2.1 Development
 
